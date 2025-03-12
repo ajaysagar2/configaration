@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to demo cards related prod APIs "
+  contactDetails:
+    name: "rohit - Product Owner"
+    email: "rohit@demo.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956

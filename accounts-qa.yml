@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to demo project accounts QA API"
+  contactDetails:
+    name: "Riaisolutions"
+    email: "Riaisolutions@gmail.com"
+  onCallSupport:
+    -(+91)4567891233

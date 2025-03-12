@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Demo loans related local APIs "
+  contactDetails:
+    name: "Tome - Developer"
+    email: "tome@demo.com"
+  onCallSupport:
+    - 7894561237
+    - 8945612378

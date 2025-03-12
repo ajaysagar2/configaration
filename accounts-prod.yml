@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to demo project accounts related prod API"
+  contactDetails:
+    name: "Shaker"
+    email: "shaker@gmail.com"
+  onCallSupport:
+    -(+91)7894561234

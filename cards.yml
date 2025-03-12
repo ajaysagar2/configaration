@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Demo cards related local APIs "
+  contactDetails:
+    name: "Sree - Developer"
+    email: "sree@demo.com"
+  onCallSupport:
+    - 8974561233
+    - 4561237899

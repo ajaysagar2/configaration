@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to demo loans related Production APIs "
+  contactDetails:
+    name: "Rohith - QA Lead"
+    email: "rohith@demo.com"
+  onCallSupport:
+    - 1234567890
+    - 1234567098

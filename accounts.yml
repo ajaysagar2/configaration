@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to demo project accounts related local API"
+  contactDetails:
+    name: "Ajay Sagar"
+    email: "Ajaysgar@gmail.com"
+  onCallSupport:
+    -(+91)2345678912
+
