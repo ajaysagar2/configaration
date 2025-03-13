@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to demo cards related prod APIs "
+  message: "Welcome to demo cards related prodroduction APIs "
   contactDetails:
     name: "rohit - Product Owner"
     email: "rohit@demo.com"
