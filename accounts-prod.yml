@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to demo project accounts related prod API"
   contactDetails:
     name: "Shaker"
-    email: "shaker@gmail.com"
+    email: "{cipher}8f1437a7c2cf2dfb516c1171b2654a8fdf4abb0a5827b8e6f205e4297a729d16454aa6c11333bc3d95ba5862bc67080b"
   onCallSupport:
     -(+91)7894561234
